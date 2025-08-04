@@ -1,0 +1,5 @@
+{
+  "name": "몬티홀",
+  "description": "A web application to simulate conditional probability problems like the Monty Hall problem with customizable parameters for doors, cars, and number of trials.",
+  "requestFramePermissions": []
+}
